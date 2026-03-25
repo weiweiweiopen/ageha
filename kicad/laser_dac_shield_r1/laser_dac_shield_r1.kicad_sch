@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "GPT-5.3-Codex")
+	(uuid "0f4d5fbe-a850-447e-9b13-b2a6e2ecf5ce")
+	(paper "A4")
+	(title_block
+		(title "Laser DAC Shield R1")
+		(date "2026-03-25")
+		(rev "R1")
+		(company "Wise Mouse Culture")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
