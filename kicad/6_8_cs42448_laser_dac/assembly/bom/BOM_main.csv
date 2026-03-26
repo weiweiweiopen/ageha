@@ -1,4 +1,0 @@
-Designator,Qty,Value,Package,MPN,Manufacturer,Notes
-U1,1,CS42448,LQFP-64,TBD,TBD,Main codec
-U2,1,Teensy_4_1_Module,Module,TBD,PJRC,Host MCU
-J1-J8,8,Output_Conn,TBD,TBD,TBD,Analog outputs
